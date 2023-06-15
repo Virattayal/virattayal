@@ -1,18 +1,22 @@
-
 h1{
     text-align: center;
     margin: auto;
     width:fit-content;  
     padding: 20px;
-
 }
-header{
+#name{
     margin: auto;
-    width:75%; 
+    width:50%; 
     border-bottom: 5px solid ;
     background-color: antiquewhite;
     border-radius: 25px;
-
+}
+#logo{
+    position: relative;
+    left: 30%;
+    float: left;
+    width:auto; 
+    height: 10%;
 }
 body{
     background-image: linear-gradient(to bottom right ,rgb(0, 253, 194), rgb(255, 136, 0), blue);
@@ -27,23 +31,21 @@ div{
     font-size:25px;
     border-radius: 25px;
 }
-
 #inst{
     text-align: center;
     margin: auto;
-    width:75%;   
+    width:50%;   
     border: 2px solid black;
     padding: 10px;
     margin-top: 40px;
     margin-bottom: 10px;
     background-image: linear-gradient(to bottom right,rgb(180, 0, 180),rgb(248, 40, 140),rgba(255, 0, 0, 0.786),yellow);
     color: white;
-
 }
 #twi{
     text-align: center;
     margin: auto;
-    width:75%;   
+    width:50%;
     border: 2px solid black;
     padding: 10px;
     margin-top: 10px;
@@ -54,7 +56,7 @@ div{
 #link{
     text-align: center;
     margin: auto;
-    width:75%;   
+    width:50%;   
     border: 2px solid black;
     padding: 10px;
     margin-top: 10px;
@@ -65,7 +67,7 @@ div{
 #git{
     text-align: center;
     margin: auto;
-    width:75%;   
+    width:50%;   
     border: 2px solid black;
     padding: 10px;
     margin-top: 10px;
@@ -76,7 +78,7 @@ div{
 #you{
     text-align: center;
     margin: auto;
-    width:75%;   
+    width:50%;   
     border: 2px solid black;
     padding: 10px;
     margin-top: 10px;
@@ -87,7 +89,7 @@ div{
 #snap{
     text-align: center;
     margin: auto;
-    width:75%;   
+    width:50%;   
     border: 2px solid black;
     padding: 10px;
     margin-top: 10px;
@@ -98,7 +100,7 @@ div{
 #what{
     text-align: center;
     margin: auto;
-    width:75%;   
+    width:50%;   
     border: 2px solid black;
     padding: 10px;
     margin-top: 10px;
@@ -109,7 +111,7 @@ div{
 #gmail{
     text-align: center;
     margin: auto;
-    width:75%;   
+    width:50%;   
     border: 2px solid black;
     padding: 10px;
     margin-top: 10px;
