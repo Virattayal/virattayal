@@ -4,7 +4,7 @@ h1{
     width:fit-content;  
     padding: 20px;
 }
-#name{
+header{
     margin: auto;
     width:50%; 
     border-bottom: 5px solid ;
