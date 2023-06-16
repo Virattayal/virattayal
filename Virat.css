@@ -11,13 +11,6 @@ header{
     background-color: antiquewhite;
     border-radius: 25px;
 }
-#logo{
-    position: relative;
-    left: 30%;
-    float: left;
-    width:auto; 
-    height: 10%;
-}
 body{
     background-image: linear-gradient(to bottom right ,rgb(0, 253, 194), rgb(255, 136, 0), blue);
 }
